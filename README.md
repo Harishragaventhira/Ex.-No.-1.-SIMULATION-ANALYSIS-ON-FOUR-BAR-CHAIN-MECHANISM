@@ -53,8 +53,8 @@
 
 
 
-### Name:RR.KAMESH
-### Register Number: 212223230095
+### Name:HARISH S
+### Register Number: 212223230072
 ## Output:
 ![image](https://github.com/23002027/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139752981/d5f99e2d-f459-4e32-8e6f-371be4413b0b)
 ## RESULT:
